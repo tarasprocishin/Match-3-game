@@ -1,0 +1,15 @@
+{
+  "name": "match-3-game",
+  "version": "1.0.0",
+  "description": "Зробити Match 3 гру використовуючи рушій Phaser 2 для мобільних пристроїв.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
